@@ -179,7 +179,7 @@ nav { display: none; }
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/services.jpg);
+    background-image: url(../assets/services.jpg);
     background-size: cover;
     background-blend-mode: multiply; /* depending on the image you have, leaving this out or adding it in might change the level of darkness */
     color: var(--clr-light);
